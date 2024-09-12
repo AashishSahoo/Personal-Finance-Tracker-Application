@@ -38,13 +38,10 @@ Basic understanding of React, Redux, and Material-UI.
 
 Installation
 
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
-
-Navigate to the project directory: : cd personal-finance-tracker
-
-Install dependencies: npm install
-
-Start the development server: npm start
+      Clone the repository: git clone https://github.com/username/repo-name.git
+      Navigate to the project directory: : cd personal-finance-tracker
+      Install dependencies: npm install
+      Start the development server: npm start
 
 Project Structure  : 
 
