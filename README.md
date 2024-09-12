@@ -50,13 +50,9 @@ Project Structure
 /src
 
   /components       # Reusable UI components
-  
   /pages            # Main pages like Login, Dashboard, Transactions
-  
   /redux            # Redux store, actions, and reducers
-  
   /utils            # Utility functions and API integrations
-  
   /App.js           # Main App component
 
 
