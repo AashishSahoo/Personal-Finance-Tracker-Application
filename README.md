@@ -15,11 +15,17 @@ Integrating with a financial data API to enhance the application's functionality
 
 Features
 User Authentication: Secure sign-up and login functionality. Authentication tokens are stored securely, and routes are protected based on user login status.
+
 Financial Data Management: Users can track their income, expenses, and savings using a simple interface. Financial transactions are stored and managed in Redux, with options to add, edit, and delete transactions.
+
 API Integration: Integration with a financial data API (e.g., currency exchange rates) to provide real-time financial insights.
-Dashboard Overview: A visually appealing dashboard shows total income, expenses, balance, and progress towards savings goals.
+
+Dashboard Overview: A visually appealing dashboard shows total income, expenses, balance, and progress towards savings goal.
+
 Transaction Management: A dedicated section to add, edit, and categorize financial transactions.
+
 Savings Goals: Users can set and track savings goals, with visual indicators of progress.
+
 Dark Mode: Optional dark mode functionality using Material-UI theming.
 
 Technologies Used
