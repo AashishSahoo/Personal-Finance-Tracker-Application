@@ -49,6 +49,8 @@ Start the development server: npm start
 Project Structure 
 /src
   /components       # Reusable UI components
+
+
   
   /pages            # Main pages like Login, Dashboard, Transactions
   /redux            # Redux store, actions, and reducers
