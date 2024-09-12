@@ -30,14 +30,35 @@ React Router: For implementing secure routing and navigation.
 Financial Data API: Integration to fetch real-time financial information.
 
 Getting Started
-Prerequisites
+Prerequisites : 
+
 Node.js and npm installed on your machine.
+
 Basic understanding of React, Redux, and Material-UI.
+
+Installation
+
+Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+
+Navigate to the project directory: : cd personal-finance-tracker
+
+Install dependencies: npm install
+
+Start the development server: npm start
 
 Project Structure 
 /src
+
   /components       # Reusable UI components
+  
   /pages            # Main pages like Login, Dashboard, Transactions
+  
   /redux            # Redux store, actions, and reducers
+  
   /utils            # Utility functions and API integrations
+  
   /App.js           # Main App component
+
+
+
+  
