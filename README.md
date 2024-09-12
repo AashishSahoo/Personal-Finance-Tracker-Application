@@ -1,4 +1,7 @@
 Personal Finance Tracker Application
+
+
+
 This project is a Personal Finance Tracker Application built to help users manage their income, expenses, and savings goals. The application includes features such as secure user authentication, financial transaction management, and integration with financial data APIs. It uses React.js, Redux, and Material-UI to provide a modern, responsive, and intuitive user interface.
 
 Objective
