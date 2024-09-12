@@ -7,33 +7,34 @@ This project is a Personal Finance Tracker Application built to help users manag
 Objective
 The goal of this project is to provide a practical hands-on experience with:
 
-Developing a full-featured financial tracker using React.js.
-Implementing user authentication and secure routing.
-Managing global state using Redux for efficient handling of financial data.
-Using Material-UI for responsive and modern UI design.
-Integrating with a financial data API to enhance the application's functionality.
+    Developing a full-featured financial tracker using React.js.
+    Implementing user authentication and secure routing.
+    Managing global state using Redux for efficient handling of financial data.
+    Using Material-UI for responsive and modern UI design.
+    Integrating with a financial data API to enhance the application's functionality.
 
-Features
-User Authentication: Secure sign-up and login functionality. Authentication tokens are stored securely, and routes are protected based on user login status.
+Features 
 
-Financial Data Management: Users can track their income, expenses, and savings using a simple interface. Financial transactions are stored and managed in Redux, with options to add, edit, and delete transactions.
+    * User Authentication: Secure sign-up and login functionality. Authentication tokens are stored securely, and routes are protected based on user login status.
 
-API Integration: Integration with a financial data API (e.g., currency exchange rates) to provide real-time financial insights.
+    * Financial Data Management: Users can track their income, expenses, and savings using a simple interface. Financial transactions are stored and managed in Redux, with options to add, edit, and delete 
+    transactions.
 
-Dashboard Overview: A visually appealing dashboard shows total income, expenses, balance, and progress towards savings goal.
+    * API Integration: Integration with a financial data API (e.g., currency exchange rates) to provide real-time financial insights.
 
-Transaction Management: A dedicated section to add, edit, and categorize financial transactions.
+    * Dashboard Overview: A visually appealing dashboard shows total income, expenses, balance, and progress towards savings goal.
 
-Savings Goals: Users can set and track savings goals, with visual indicators of progress.
+    * Transaction Management: A dedicated section to add, edit, and categorize financial transactions.
 
-Dark Mode: Optional dark mode functionality using Material-UI theming.
+    * Dark Mode: Optional dark mode functionality using Material-UI theming.
 
-Technologies Used
-React.js (v18+): For building the UI components and managing the application's state.
-Redux: For global state management and handling complex state changes.
-Material-UI (MUI): To ensure a responsive and visually appealing user interface.
-React Router: For implementing secure routing and navigation.
-Financial Data API: Integration to fetch real-time financial information.
+Technologies Used : 
+
+    React.js (v18+): For building the UI components and managing the application's state.
+    Redux: For global state management and handling complex state changes.
+    Material-UI (MUI): To ensure a responsive and visually appealing user interface.
+    React Router: For implementing secure routing and navigation.
+    Financial Data API: Integration to fetch real-time financial information.
 
 Getting Started
 Prerequisites : 
